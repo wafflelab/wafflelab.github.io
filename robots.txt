@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /no-bot/
+Disallow: /img/
