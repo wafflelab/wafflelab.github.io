@@ -1,0 +1,54 @@
+        @font-face {
+              font-family: monospace;
+    }
+    
+    .warn {
+         padding: 2px;
+         background-color: #2bc274;
+         color: white;
+         font-family: monospace;
+         text-align: center;
+         outline-color: white;
+         outline-style: dashed;
+         outline-width: 2px;
+    }
+    
+    .block1 {
+           padding: 20px;
+           background-color: #363a3d;
+           color: white;
+           font-family: monospace;
+           text-align: center;
+    }
+    
+    .block2 {
+           padding: 20px;
+           background-color: #1D1F21;
+           color: white;
+           font-family: monospace;
+           text-align: center;
+    }
+    
+    .block3 {
+           padding: 20px;
+           background-color: #2b2e30;
+           color: white;
+           font-family: monospace;
+    }
+    
+    body {
+        background-color: black;
+        color: white;
+    }
+    
+    p {
+        background-color: #333436;
+    }
+    
+    a {
+        color: #2bc274;
+        background-color: #2f3236;
+        outline-color: #2bc274;
+        outline-style: solid;
+        outline-width: 1px;
+    }
