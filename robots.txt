@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: /no-bot/
-Disallow: /img/
-Disallow: /404.html
